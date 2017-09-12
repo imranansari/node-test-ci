@@ -1,1 +1,1 @@
-FROM node
+FROM yukinying/chrome-headless-browser
